@@ -1230,7 +1230,7 @@ button:focus-visible,
 .letter-body {
   max-width: 39rem;
   margin: 0 auto;
-  font-family: "Segoe Print", "Bradley Hand", "Comic Sans MS", cursive;
+  font-family: Arial, sans-serif;
   font-size: 1rem;
   line-height: 1.85;
   text-align: left;
